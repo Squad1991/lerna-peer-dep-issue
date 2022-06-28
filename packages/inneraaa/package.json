@@ -1,0 +1,12 @@
+{
+  "name": "inneraaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "17.0.0",
+    "react-dom": "17.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
